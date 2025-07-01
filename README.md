@@ -1,39 +1,74 @@
-<h2 align="left">Hi 👋! My name is Marcos Vinícius and I'm a FullStack Developer , from Brazil</h2>
+<!-- Flashy Profile README for Marcos-Andrade22 -->
 
-###
+<h1 align="center">Hi there 👋, I'm Marcos Andrade</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;React+%7C+Blazor+%7C+NodeJS+%7C+.NET+%7C+Spring;Coding+%26+Gaming+Enthusiast;Always+Learning+New+Tech!" />
+</p>
 
-<div align="center">
-  <img src= "https://github-readme-stats.vercel.app/api?username=marcos-andrade22&theme=algolia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph""/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcos-Andrade22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/marcos-andrade-b31249249/">
+    <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Andrade-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+</p>
 
-###
+---
 
-###
+## 🚀 About Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+🎮 Coding & gaming are my passions!  
+🌱 Currently exploring new programming languages and building my ultimate tech stack.  
+⭐ Always up for a challenge and excited by new projects!
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" href ="https://www.instagram.com/mpinheiro.dev/" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" href="linkedin.com/in/marcos-andrade-b31249249/" alt="linkedin logo"  />
-</div>
+## 🛠️ Tech Stack
 
-###
+**Front-end:**  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 
-<br clear="both">
+**Back-end:**  
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 
-###
+**Databases:**  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/H2-4479A1?style=for-the-badge&logo=h2&logoColor=white"/>
+
+---
+
+## 🌟 Favorite Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Andrade22&repo=Trabalho01-PWA&theme=radical)](https://github.com/Marcos-Andrade22/Trabalho01-PWA)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcos-Andrade22&show_icons=true&theme=radical" alt="stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcos-Andrade22&theme=radical" alt="streak" height="160"/>
+</p>
+
+---
+
+## 🕹️ Fun Facts
+
+- 🔄 Always leveling up my dev skills.
+- 🌐 Enjoy building both web apps & APIs.
+- 🎲 Gamer at heart—challenge me!
+- 🚀 Let’s connect and build something amazing!
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
