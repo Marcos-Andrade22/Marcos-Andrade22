@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Marcos Andrade</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;React+%7C+Blazor+%7C+NodeJS+%7C+.NET+%7C+Spring;Coding+%26+Gaming+Enthusiast;Always+Learning+New+Tech!" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;React+%7C+Blazor+%7C+NodeJS+%7C+.NET+%7C+Spring+%7C+Ruby+Rails;Coding+%26+Gaming+Enthusiast;Always+Learning+New+Tech!" />
 </p>
 
 <p align="center">
@@ -30,6 +30,8 @@
 <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 
 **Back-end:**  
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rails-CC342D?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
