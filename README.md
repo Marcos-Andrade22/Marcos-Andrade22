@@ -47,11 +47,11 @@
 
 ---
 
-## 🌟 Favorite Project
+## 🌟 Projetos Favoritos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcos-Andrade22&repo=Trabalho01-PWA&theme=radical)](https://github.com/Marcos-Andrade22/Trabalho01-PWA)
-
----
+**🚀 Astato Rebuild (Em Desenvolvimento)**  
+[![Astato Rebuild](https://img.shields.io/badge/Live%20Demo-%23FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://astato-rebuild-project.lovable.app/)  
+*Rebuild moderno da Astato usando Rails/React - Em desenvolvimento ativo!*
 
 ## 📈 GitHub Stats
 
